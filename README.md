@@ -12,3 +12,5 @@ boneage-training-dataset (zipped folder, attached in this email) -> contains all
 
 Further reading:
 https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/RSNA-Pediatric-Bone-Age-Challenge-2017
+
+https://www.biorxiv.org/content/biorxiv/early/2018/06/20/234120.full.pdf
