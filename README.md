@@ -8,7 +8,7 @@ random_train_boneage.csv -> subsample of the train_boneage.csv
 
 random_validation_boneage.csv -> subsample of the validation_boneage.csv
 
-boneage-training-dataset (zipped folder) -> contains all 12,611 images
+boneage-training-dataset (zipped folder, attached in this email) -> contains all 12,611 images
 
 Further reading:
 https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/RSNA-Pediatric-Bone-Age-Challenge-2017
